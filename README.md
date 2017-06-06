@@ -5,3 +5,5 @@ Todos include:
   <li>Less magic numbers for padding/spacing</li>
   <li>Add line chart</li>
 </ul>
+
+https://j2d2development.github.io/d3-v3-examples/
